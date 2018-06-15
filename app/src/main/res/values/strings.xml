@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BroadCastReceiverExample</string>
+    <string name="button_text">Send intent</string>
+</resources>
